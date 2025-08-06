@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>شركة جروف للمياه</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background-color: #eaf6ff;
+background-image: url('bg.jpg'); /* لو حبيت تضيف خلفية */
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+color: #003366;
+margin: 0;
+padding: 0;
+}
+header {
+text-align: center;
+padding: 30px 15px 10px;
+background-color: rgba(255, 255, 255, 0.9);
+}
+header img {
+max-width: 150px;
+margin-bottom: 10px;
+}
+header h1 {
+margin: 10px 0 5px;
+}
+.section {
+padding: 20px;
+background-color: rgba(255,255,255,0.85);
+margin: 20px;
+border-radius: 10px;
+}
+.buttons a {
+display: inline-block;
+margin: 10px 8px;
+padding: 10px 20px;
+background-color: #007BFF;
+color: white;
+text-decoration: none;
+border-radius: 8px;
+font-weight: bold;
+}
+footer {
+text-align: center;
+font-size: 14px;
+color: #fff;
+background-color: rgba(0,0,0,0.4);
+padding: 15px;
+margin-top: 40px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<!-- <img src="logo.png" alt="شعار جروف" /> -->
+<h1>شركة مصنع جروف لتعبئة المياه</h1>
+<p>مياه نقية من قلب الطبيعة</p>
+</header>
+
+<div class="section">
+<h2>عن الشركة</h2>
+<p>
+شركة جروف هي إحدى الشركات الرائدة في مجال تعبئة وتوزيع المياه في المملكة العربية السعودية.
+نحرص في جروف على تقديم مياه شرب طبيعية، صحية، ونقية، تمت معالجتها وفقًا لأعلى المواصفات المحلية والعالمية،
+لضمان سلامة وصحة المستهلك.
+</p>
+<p>
+نتميز بعمليات تعبئة تتم بأحدث التقنيات، مع التزامنا بالشفافية والجودة من المصدر وحتى العميل.
+</p>
+</div>
+
+<div class="section">
+<h2>معلومات التواصل</h2>
+<p><strong>المالك:</strong> عبد المحسن ب بعيجان بن صنهات العصيمي</p>
+<p><strong>العنوان:</strong> القويعية – حي العواش – طريق الملك عبدالعزيز</p>
+<div class="buttons">
+<a href="tel:0509041666">📞 اتصال</a>
+<a href="https://wa.me/966509041666?text=مرحبًا،%20أريد%20الاستفسار%20عن%20مياه%20جروف">💬 واتساب</a>
+<a href="mailto:jorof.sa@gmail.com">📧 بريد إلكتروني</a>
+<a href="https://maps.app.goo.gl/4RTXUofxc1UGDBLLA?g_st=aw" target="_blank">🗺️ الموقع على الخريطة</a>
+</div>
+</div>
+
+<footer>
+&copy; 2025 شركة جروف لتعبئة المياه. جميع الحقوق محفوظة.
+</footer>
+
+</body>
+</html>
